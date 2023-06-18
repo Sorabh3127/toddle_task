@@ -1,0 +1,42 @@
+.heading{
+    margin: 10px 0 12px 44px;
+    color: rgba(0, 0, 0, 1);
+    font-size: 32px;
+}
+.containers{
+    display: flex;
+
+}
+.structure{
+    display: flex;
+    margin: 47px 0 0 64px;
+    border: 2px solid rgba(235, 235, 235, 1);
+    border-radius: 8px;
+    z-index: -1;
+}
+.first_part_1{
+    background-color: rgba(202, 248, 255, 1);
+    width: 64px;
+    height: 59px;
+    border-right: 2px solid rgba(235, 235, 235, 1);
+    border-radius: 8px;
+    
+}
+.second_part_1{
+    padding: 18px;
+}
+.first_part_2{
+    background-color: rgba(255, 237, 193, 1);
+    width: 64px;
+    height: 59px;
+    border-radius: 8px;
+}
+
+.second_part_2{
+    padding: 18px;
+}
+
+.icon_set{
+    padding: 21px;
+    cursor: pointer;
+}

@@ -1,0 +1,40 @@
+.header2{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid rgba(235, 235, 235, 1);
+    width: 100%;
+    height: 4rem;
+
+}
+.left{
+
+    margin-left: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.left p{
+    font-size: 18px;
+    font-weight: 700;
+    margin-left: 7px;
+}
+
+.right{
+    margin-right: 15px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.iconColor{
+    color: rgba(176, 176, 176, 1);
+    cursor: pointer;
+}
+.mid{
+    margin-left: 21px; 
+    color: black;
+}
+.bookmark_icon{
+    margin-left: 21px;
+}

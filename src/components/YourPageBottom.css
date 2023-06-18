@@ -1,0 +1,19 @@
+.top-section{
+    display: flex;
+    justify-content: space-between;
+    margin: 15px 0 0px 27px;
+}
+
+.resize{
+    height: 40px;
+    background-color: rgba(175, 39, 62, 1);
+}
+
+.left-post{
+    font-weight: 700;
+    font-size: 32px;
+    
+}
+.mg_not_found{
+    margin: 110px 0 0 38rem;
+}
